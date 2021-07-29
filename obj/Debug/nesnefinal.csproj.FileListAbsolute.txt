@@ -1,0 +1,44 @@
+C:\Users\proxe\source\repos\nesnefinal\bin\Debug\nesnefinal.exe.config
+C:\Users\proxe\source\repos\nesnefinal\bin\Debug\nesnefinal.exe
+C:\Users\proxe\source\repos\nesnefinal\bin\Debug\nesnefinal.pdb
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.csprojAssemblyReference.cache
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.Form1.resources
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.Properties.Resources.resources
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.csproj.GenerateResource.cache
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.csproj.CoreCompileInputs.cache
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.exe
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.pdb
+C:\Users\proxe\source\repos\nesnefinal\obj\Debug\nesnefinal.Panel2.resources
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.Form1.resources
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.Panel2.resources
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.Properties.Resources.resources
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.exe
+C:\Users\mehme\source\repos\nesnefinal\obj\Debug\nesnefinal.pdb
+C:\Users\mehme\source\repos\nesnefinal\bin\Debug\nesnefinal.exe.config
+C:\Users\mehme\source\repos\nesnefinal\bin\Debug\nesnefinal.exe
+C:\Users\mehme\source\repos\nesnefinal\bin\Debug\nesnefinal.pdb
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\bin\Debug\nesnefinal.exe.config
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\bin\Debug\nesnefinal.exe
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\bin\Debug\nesnefinal.pdb
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.Form1.resources
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.Panel2.resources
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.Properties.Resources.resources
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.exe
+C:\Users\mehme\Desktop\format yedek-20200929T160045Z-001\format yedek\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.pdb
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\bin\Debug\nesnefinal.exe.config
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\bin\Debug\nesnefinal.exe
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\bin\Debug\nesnefinal.pdb
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.Form1.resources
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.Panel2.resources
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.Properties.Resources.resources
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.exe
+C:\Users\mehme\Desktop\Ders\Ders\2.sınıf\nesne\2016280012final\nesnefinal\obj\Debug\nesnefinal.pdb
